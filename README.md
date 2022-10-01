@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GutsIMW
+- 👋 Hi, I’m Henri
 - 👨‍🎓 I'm a graduate computer science student
 - 👀 I’m primarily interested in 3d graphics programming and game design.
 - 🌱 I’m currently learning game development on Unity
